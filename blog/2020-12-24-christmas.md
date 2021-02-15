@@ -1,11 +1,11 @@
 ---
-slug: welcome
-title: Welcome
+slug: christmas
+title: Christmas release
 author: Yangshun Tay
 author_title: Front End Engineer @ Facebook
 author_url: https://github.com/yangshun
 author_image_url: https://avatars0.githubusercontent.com/u/1315101?s=400&v=4
-tags: [facebook, hello, docusaurus]
+tags: [facebook, christmas, release]
 ---
 
 Blog features are powered by the blog plugin. Simply add files to the `blog` directory. It supports tags as well!
